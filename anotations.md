@@ -32,3 +32,11 @@ a) ID31, pré-presbiópico, hipermetrope, sim, normal, ?
 b) ID32, presbiópico, hipermetrope, sim, normal, ?
 c) ID33, jovem, míope, sim, normal, ?
 d) ID34, presbiópico, hipermetrope, sim, normal,
+
+
+## algoritmo das formigas
+
+sistemas especialistas
+ - logica fuzzy
+
+
