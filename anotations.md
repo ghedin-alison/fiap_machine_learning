@@ -40,3 +40,25 @@ sistemas especialistas
  - logica fuzzy
 
 
+KNN pode ter sensibilidade maior a a outliers
+
+base desbalanceada:
+Se k for do tamanho do meu conjunto de dados
+k é o tamnho da classificação, 
+
+**algoritmo de classificação cria uma superfície de decisão!!!!**
+
+
+**F1-score é um balanceamento entre precisão e recall**
+
+
+Leave and out
+deixa um de fora testa o resto da base, e repete
+muito custo
+
+
+K fold
+cria pequenas bases/grupos e faz o mesmo processo do leave and out
+
+Hould out
+separa em treino e teste, geralmente 70/30
