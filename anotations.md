@@ -62,3 +62,25 @@ cria pequenas bases/grupos e faz o mesmo processo do leave and out
 
 Hould out
 separa em treino e teste, geralmente 70/30
+
+
+## K-means
+um dos problemas é a inicialização. Se os centroides ficarem mal posicionados, o modelo pode agrupar de maneira errada.
+outro é estrutural, não é bom pra estruturas desbalanceadas...
+
+algoritmo de elbow ou silueta ajuda a definir o numero dos centroides
+distancias intragrupo
+
+Kmeans ++ testa inicializações aleatórias
+
+K-median
+baseado na mediana, ameniza problemas de outliers
+
+**DbScan é o principal concorrente do K-means**
+
+
+XGboost
+CatBoot
+
+
+
